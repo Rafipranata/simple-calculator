@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>rafi-kalkulator</title>
+	<link rel="stylesheet" type="text/css" href="Style.css">
+</head>
+<body>
+	<main class="card">
+		<form class="display">
+			<input id="screen" placeholder="0">
+		</form>
+		<div class="button">
+			<div class="tombol-kiri">
+				<button class="tombol-1" onclick="display('clear')">AC</button>
+				<button class="tombol-1" onclick="display('del')">del</button>
+				<button class="tombol-1" onclick="display('%')">%</button>
+				<script type="text/javascript" language="JavaScript">
+					for (var i = 9; i >= 1; i--) {
+						document.write(`<button class=tombol onclick=display(${i})>`+i+`</button>`)
+					}
+				</script>
+				<button class="tombol" onclick="display('00')">00</button>
+				<button class="tombol" onclick="display('0')">0</button>
+				<button class="tombol" onclick="display('.')">.</button>
+			</div>
+
+			<div class="tombol-kanan">
+				<button class="tombol-1" onclick="display('/')">:</button>
+				<button class="tombol-1" onclick="display('*')">x</button>
+				<button class="tombol-1" onclick="display('-')">-</button>
+				<button class="tombol-1" onclick="display('+')">+</button>
+				<button class="tombol-1" onclick="display('action')">=</button>
+			</div>
+		</div>
+	</main>
+	<script type="text/javascript" src="Script.js">		
+	</script>
+</body>
+</html>
