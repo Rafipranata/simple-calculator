@@ -5,11 +5,11 @@
 }
 
 body{
-	background-color: black;
+	background-color: #eaeaea;
 	display: flex;
 	justify-content: center;
     align-items: center;
-    padding-top: 30px;
+    padding-top: 50px;
 }
 
 .card{
@@ -18,7 +18,7 @@ body{
    height: 500px;
    border-radius: 20px;
    display: flex;
-   padding: 20px;
+   padding: 10px;
    justify-content: center;
    align-items: center;
    flex-direction: column;
@@ -84,6 +84,7 @@ body{
 	cursor: pointer;
 	color: tomato;
 	font-size: 17px;
+	font-weight: 500px;
 }
 
 .tombol:hover{
@@ -106,4 +107,11 @@ body{
 	box-shadow: inset 5px 5px 12px rgb(0, 0, 0, 0.16), 5px 5px 12px #e6e3c3;
 	border-radius: 20px;
 	margin-left: 10px;
+	font-weight: 500;
+}
+
+p{
+	color: black;
+	padding-top: 25px;
+	
 }
