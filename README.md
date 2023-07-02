@@ -1,6 +1,7 @@
-<p align="center"><img src="https://myskill.id/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmyskill-logo.0b4d0f9d.png&w=828&q=75" style="width:23%; margin:auto;"  ></p>
+
 
 # Mini Project: Calculator
+<p align="center"><img src="https://myskill.id/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmyskill-logo.0b4d0f9d.png&w=828&q=75" style="width:25%; margin:auto;"  ></p>
 Topic: Frontend - Javascript  </br>
 Mentor: Abdullah Zaky - Frontend Developer at Mister Aladin </br>
 
