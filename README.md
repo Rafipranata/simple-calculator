@@ -5,9 +5,10 @@
 Topic: Frontend - Javascript  </br>
 Mentor: Abdullah Zaky - Frontend Developer at Mister Aladin </br>
 
+
 My Certificate: [Certificate-of-Course-Completion.pdf](https://github.com/Rafipranata/simple-calculator/files/11928965/Certificate-of-Course-Completion.pdf)
 
 ## 🚀 Deskripsi Kelas
-Materi Mini Project: Calculator adalah bagian dari kursus Frontend - Javascript yang dipandu oleh Abdullah Zaky, seorang Frontend Developer berpengalaman di Mister Aladin. Dalam materi ini, Anda akan mempelajari cara mengembangkan kalkulator sederhana menggunakan bahasa pemrograman Javascript. 
+Materi Mini Project: Calculator adalah bagian dari kursus Frontend - Javascript yang dipandu oleh Abdullah Zaky, seorang Frontend Developer berpengalaman di Mister Aladin. Dalam materi ini, Mempelajari cara mengembangkan kalkulator sederhana menggunakan bahasa pemrograman Javascript. 
 
 
