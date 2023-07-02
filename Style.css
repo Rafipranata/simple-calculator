@@ -13,16 +13,16 @@ body{
 }
 
 .card{
-   background-color: #FFF;
-   width: 300px;
-   height: 500px;
-   border-radius: 20px;
-   display: flex;
-   padding: 10px;
-   justify-content: center;
-   align-items: center;
-   flex-direction: column;
-   box-shadow: inset 5px 5px 12px #FFF, 5px 5px 12px rgb(0, 0, 0, 0.16);
+	background-color: #FFF;
+	width: 300px;
+	height: 500px;
+	border-radius: 20px;
+	display: flex;
+	padding: 10px;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	box-shadow: inset 5px 5px 12px #FFF, 5px 5px 12px rgb(0, 0, 0, 0.16);
 }
 
 .display{
