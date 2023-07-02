@@ -1,3 +1,5 @@
-# simple-calculator
-ini merupakan project kalkulator yang telah saya kembangkan, dan ini hasil dari saya belajar javascript
-hasil project : https://rafipranata.github.io/simple-calculator/
+<p align="center"><img src="https://myskill.id/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmyskill-logo.0b4d0f9d.png&w=828&q=75" style="width:20%; margin:auto;"  ></p>
+
+## Mini Project: Calculator
+My Certification: <embed type="application/pdf" src="file:///C:/Users/USER/Downloads/Certificate%20of%20Course%20Completion.pdf" width="600" height="400">Certification</embed>
+
